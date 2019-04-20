@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1555423409 source:d:\std_tubes\std_tubes_topik8\tubesstd\kelas.cpp
+	"kelas.h"
+
+1555548005 source:d:\std_tubes\std_tubes_topik8\tubesstd\main.cpp
+	<cstdlib>
+	"mahasiswa.h"
+	"kelas.h"
+	"relasi.h"
+	"lainnya.h"
+
+1555471619 source:d:\std_tubes\std_tubes_topik8\tubesstd\relasi.cpp
+	"relasi.h"
+
+1555422721 source:d:\std_tubes\std_tubes_topik8\tubesstd\mahasiswa.cpp
+	"mahasiswa.h"
+
+1555422703 d:\std_tubes\std_tubes_topik8\tubesstd\mahasiswa.h
+	<stdlib.h>
+	<iostream>
+
+1555419725 d:\std_tubes\std_tubes_topik8\tubesstd\kelas.h
+	<stdlib.h>
+	<iostream>
+
+1555423131 d:\std_tubes\std_tubes_topik8\tubesstd\relasi.h
+	"mahasiswa.h"
+	"kelas.h"
+	<iostream>
+	<cstdlib>
+	"relasi.h"
+	<cstdlib>
+	<iostream>
+
+1554894549 source:d:\std_tubes\std_tubes_topik8\tubesstd\lainnya.cpp
+	<cstdlib>
+	"mahasiswa.h"
+	"kelas.h"
+	"relasi.h"
+	"lainnya.h"
+
+1554821287 d:\std_tubes\std_tubes_topik8\tubesstd\lainnya.h
+	<stdlib.h>
+	<iostream>
+
